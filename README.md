@@ -1,0 +1,1 @@
+This is Kuria's first git project.
